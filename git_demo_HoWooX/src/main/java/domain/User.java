@@ -14,4 +14,7 @@ public class User {
     private Integer age;
     // 前端人员开发
     private String qianduan;
+
+    private String ceshi;
+
 }
