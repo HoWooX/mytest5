@@ -17,4 +17,7 @@ public class User {
 
     private String ceshi;
 
+    private String ceshppi;
+
+
 }
